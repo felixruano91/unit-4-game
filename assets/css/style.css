@@ -64,7 +64,7 @@ body {
   color: #212529;
   text-align: left;
   
-  background-image: url(/assets/images/pizza.gif); }
+  background-image: url(https://media.giphy.com/media/Hp3imcQlbzfwc/giphy.gif); }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -4270,7 +4270,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-image: url(/assets/images/b&w.gif);
+  background-image: url(https://media.giphy.com/media/l2SpNEyweEXKKbRni/giphy.gif);
   border-radius: 0.3rem; }
   @media (min-width: 576px) {
     .jumbotron {
